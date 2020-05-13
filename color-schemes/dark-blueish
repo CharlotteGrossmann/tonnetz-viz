@@ -1,0 +1,38 @@
+colorscheme.addScheme("please-give-me-a-name", {
+  "name": "PLEASE GIVE ME A NAME",
+  "background": "#000000",
+  "nodes": {
+    "OFF": {
+      "label": "#000000",
+      "fill": "#000000",
+      "stroke": "#000000"
+    },
+    "GHOST": {
+      "label": "#000000",
+      "fill": "#000000",
+      "stroke": "#114644"
+    },
+    "SUSTAIN": {
+      "label": "#26a29b",
+      "fill": "#000000",
+      "stroke": "#26a29b"
+    },
+    "ON": {
+      "label": "#26a29b",
+      "fill": "#82e1dd",
+      "stroke": "#26a29b"
+    }
+  },
+  "faces": {
+    "major": {
+      "label-off": "#000000",
+      "label-on": "#4dffca",
+      "fill": "#4dffca"
+    },
+    "minor": {
+      "label-off": "#000000",
+      "label-on": "#7db7e6",
+      "fill": "#7db7e6"
+    }
+  }
+});
